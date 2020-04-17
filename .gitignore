@@ -2,6 +2,6 @@
 day*/
 Test/
 *.iml
-out/
-src/
+/out
+/src
 
